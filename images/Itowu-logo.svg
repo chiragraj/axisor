@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 427.165 125.582">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #6cc2be;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Itowu-logo" transform="translate(-179 -58)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-1" width="427.165" height="125.391" transform="translate(179 58.191)"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(196.215 65.749)">
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M64.848,136.681H82.261V72.543h26.53V57.5H38.5V72.543H64.848Z" transform="translate(-38.5 -31.289)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-2" d="M284.972,57.9H232.14c-15.134,0-20.24,5.151-20.24,20.376v38.246c0,15.225,5.106,20.376,20.24,20.376h52.833c15.043,0,20.1-5.151,20.1-20.376V78.276C305.075,63.051,299.97,57.9,284.972,57.9Zm2.826,63.682H229.313V72.9H287.8Z" transform="translate(-132.856 -31.506)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-2" d="M540.825,0l-28.08,78.406L494.1,26.348H480.2L460.869,78.543,443.045,26.348H423.9l28.627,79.044H467.16l19.556-51.556,18.917,51.556h14.086L558.466,0Z" transform="translate(-248.216)"/>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(187.326 58)">
+      <g id="Group_2" data-name="Group 2" transform="translate(6.915 34.097)">
+        <path id="Path_1" data-name="Path 1" class="cls-3" d="M730.45,57.8H712.9v58.668c0,15.225,5.105,20.376,20.24,20.376h47.454c15,0,20.1-5.151,20.1-20.376V57.8h-17.55v63.728h-52.7Z" transform="translate(-403.502 -57.8)"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(0 19.404)">
+          <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-3" width="17.55" height="35.146" transform="translate(1.974 24.495)"/>
+          <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-3" cx="9.39" cy="9.39" rx="9.39" ry="9.39" transform="translate(0 3.009) rotate(-9.218)"/>
+        </g>
+      </g>
+      <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-4" width="412.999" height="121.712" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>
